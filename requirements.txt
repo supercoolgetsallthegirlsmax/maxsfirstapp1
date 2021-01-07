@@ -83,7 +83,7 @@ jupyterthemes==0.20.0
 leather==0.3.3
 lesscpy==0.14.0
 lib50==2.0.8
-lxml==4.5.0
+lxml==4.6.2
 Mail==2.1.0
 Mako==1.1.2
 mapper==0.1.17
