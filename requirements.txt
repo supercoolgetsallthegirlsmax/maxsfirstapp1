@@ -130,7 +130,7 @@ ptyprocess==0.6.0
 public==2019.4.13
 pyasn1==0.4.2
 pycparser==2.20
-Pygments==2.6.1
+Pygments==2.7.4
 pyparsing==2.2.0
 pyrsistent==0.16.0
 pyshp==2.1.0
